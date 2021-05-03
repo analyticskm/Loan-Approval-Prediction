@@ -40,4 +40,3 @@ Loan_Status | Loan approved (Y/N)
   
 **Best Model Accuracy:** 81.00
 
-**Complete Video Tutorial:** https://youtu.be/zDwxGxiNFSo
