@@ -30,13 +30,3 @@ Loan_Status | Loan approved (Y/N)
 <li>matplotlib
 <li>seaborn
 <li>scikit-learn
-
-# Algorithms
-
-<li>Logistic Regression
-<li>Decision Tree
-<li>Random Forest
-<li>Extra Tress
-  
-**Best Model Accuracy:** 81.00
-
