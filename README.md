@@ -22,7 +22,7 @@ Credit_History | credit history meets guidelines
 Property_Area | Urban/ Semi Urban/ Rural
 Loan_Status | Loan approved (Y/N)
 
-https://www.kaggle.com/c/mse-pysupport-hackathon/leaderboard
+
 
 # Libraries
 
